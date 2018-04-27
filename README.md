@@ -1,1 +1,3 @@
-# hillsboro_machine_learning_04_2018
+# Hillsboro Python Machine Learning Meetup
+
+April 2018 Source Code
